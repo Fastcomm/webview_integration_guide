@@ -1,4 +1,4 @@
 <view>   
     <!-- Add your site URL below -->
-    <web-view id="web-view-1" src="http://www.takealot.com" onMessage="fromBrowserMessage"></web-view>
+    <web-view id="web-view-1" src="http://localhost:4000" onMessage="fromBrowserMessage"></web-view>
 </view>
