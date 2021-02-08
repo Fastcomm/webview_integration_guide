@@ -1,1 +1,1 @@
-webview_integration_guide
+For the developers two specific sections that will tell them all they need to know is the "merchant" side javascript integration is as easy as checking if the "my" (mini-app) namespace is available, https://github.com/Fastcomm/webview_integration_guide/blob/master/merchant_side/public/client.js. All the mini-app work required is detailed here, https://github.com/Fastcomm/webview_integration_guide/tree/master/webview_integration/pages/index. 
